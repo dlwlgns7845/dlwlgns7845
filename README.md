@@ -1,6 +1,6 @@
 # Hi, I'm Jihoon Lee
 
-CS senior at the University of Houston (graduating May 2027). I build full-stack web, mobile, and LLM applications that real people use.
+CS senior at the University of Houston (graduating December 2027). I build full-stack web, mobile, and LLM applications that real people use.
 
 ## What I'm working on
 
